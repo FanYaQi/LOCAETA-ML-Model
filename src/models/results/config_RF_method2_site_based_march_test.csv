@@ -1,0 +1,2 @@
+model_type,method,validation_type,target_log_transform,features_used,r2_score,rmse,mae,n_train,n_test
+RF,method2,site_based,True,"sat_at_target,sat_decay_1_3km,sat_directional_asymmetry,dewpoint_temp_2m,temp_2m,u_wind_10m,v_wind_10m,facility_height,distance_to_facility,bearing_from_facility,NEI_annual_emission_t,monthly_emission_rate_t_per_hr,elevation,elevation_diff_from_facility,terrain_slope,terrain_roughness,road_density_interstate",0.916327318746326,0.6819810751535789,0.535387833279071,24768,1152

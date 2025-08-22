@@ -1,0 +1,29 @@
+# Core ML and Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scipy>=1.9.0
+
+# Geospatial and Atmospheric Data
+xarray>=2022.3.0
+netCDF4>=1.6.0
+rasterio>=1.3.0
+geopandas>=0.11.0
+pyproj>=3.3.0
+shapely>=1.8.0
+
+# Advanced ML Libraries
+lightgbm>=3.3.0
+xgboost>=1.6.0
+
+# Utilities
+pathlib
+joblib>=1.1.0
+warnings
+pathlib
+
+# Optional for enhanced functionality
+# jupyter  # For notebook analysis
+# folium   # For interactive maps

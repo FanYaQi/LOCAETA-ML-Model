@@ -5,6 +5,18 @@
 # Files
 src/data
 src/figures
+.claude
+src/_deprecated
+
+#markdown
+src/_deprecated_files.md
+src/CLEANUP_COMPLETE.md
+src/FILE_ANALYSIS.md
+src/FINAL_CLEAN_STRUCTURE.md
+src/FIXES_APPLIED.md
+src/RESTRUCTURING_SUMMARY.md
+src/TRI_VALIDATION_READY.md
+src/UPGRADED_TO_COMBINED_LARGE.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
